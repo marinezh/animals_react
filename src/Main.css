@@ -25,7 +25,7 @@ input {
 }
 
 
-h1 {
+/* h1 {
     height: 200px;
     width: 200px;
     border-radius: 50%;
@@ -33,7 +33,7 @@ h1 {
     display: flex;
     justify-content: center;
     align-items: center;
-}
+} */
 
 .Counter.odd {
     background-color: rgb(122, 246, 143);
